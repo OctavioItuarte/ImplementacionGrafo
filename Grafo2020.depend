@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1590258158 source:c:\users\usuario\desktop\c++\grafo2020\main.cpp
+	<iostream>
+	"GrafoD.h"
+	"GrafoND.h"
+	<queue>
+	"sets.h"
+	"AristaCompleta.h"
+	"heapDijkstra.h"
+
+1590253661 c:\users\usuario\desktop\c++\grafo2020\include\grafod.h
+	<list>
+	<map>
+	<cassert>
+	"AristaCompleta.h"
+
+1587062685 source:c:\users\usuario\desktop\c++\grafo2020\src\grafod.cpp
+
+1587652794 source:c:\users\usuario\desktop\c++\grafo2020\src\grafond.cpp
+
+1590258125 c:\users\usuario\desktop\c++\grafo2020\include\grafond.h
+	<list>
+	<map>
+	<assert.h>
+	"AristaCompleta.h"
+
+1588991380 source:c:\users\usuario\desktop\c++\grafo2020\src\compconexas.cpp
+
+1589000570 source:c:\users\usuario\desktop\c++\grafo2020\src\sets.cpp
+
+1589058050 source:c:\users\usuario\desktop\c++\grafo2020\src\aristacompleta.cpp
+
+1589075172 c:\users\usuario\desktop\c++\grafo2020\include\aristacompleta.h
+
+1589080476 c:\users\usuario\desktop\c++\grafo2020\include\sets.h
+
+1589338552 source:c:\users\usuario\desktop\c++\grafo2020\src\heapmin.cpp
+
+1589407767 source:c:\users\usuario\desktop\c++\grafo2020\src\heapdijkstra.cpp
+
+1589424946 c:\users\usuario\desktop\c++\grafo2020\include\heapdijkstra.h
+	<cassert>
+	<iostream>
+
